@@ -31,3 +31,4 @@ Projeto desenvolvido em C# para praticar matrizes bidimensionais.
 - Estruturas de repetição
 - Condicionais
 - Manipulação de arrays
+<img width="716" height="1246" alt="matrix" src="https://github.com/user-attachments/assets/76bd538b-fcb9-4c19-b39c-166408ac7ed4" />
