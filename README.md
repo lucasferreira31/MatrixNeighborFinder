@@ -18,7 +18,13 @@ Projeto desenvolvido em C# para praticar matrizes bidimensionais.
 - C#
 - .NET
 - Visual Studio
+- 
+## Concepts
 
+- Arrays
+- Bidimensional Matrices
+- Loops
+- Conditionals
 ## Conceitos praticados
 
 - Matrizes
